@@ -1,0 +1,1 @@
+My goal is to become proficient in Ruby on Rails. I work at a digital marketing company, and our Engineering team uses a lot of Ruby on Rails for our web apps. As an Application Support Specialist, I toubleshoot various things that often include .rb and .html.erb files - I can often fix small things, but am looking to learn how to develop from the ground up.
