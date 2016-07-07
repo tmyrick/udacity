@@ -97,13 +97,3 @@ uniq_brand.each do |brand_name|
 
 end
 
-
-
-
-
-
-
-
-
-
-
